@@ -13,7 +13,7 @@ var images = document.getElementsByTagName('img');
 for (var i = 0; i < images.length; i++) {
 images[i].src = images[i].src.replace('https://ptpimg.me/2zzyfp.jpg', 
 
-                                      // Change the link below:
+                                      // Change the link below to a picture of your liking:
                                       
                                       'https://ptpimg.me/h6iis3.png'
                                      
